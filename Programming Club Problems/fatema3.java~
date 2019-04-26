@@ -1,0 +1,8 @@
+import Scanner.util.java;
+public class fatema3
+{
+  public static void main(String args[])
+  {
+    
+  }
+}
